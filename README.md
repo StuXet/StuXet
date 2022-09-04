@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Hi, I'm Mark Guriev
 🌱 I’m currently learning Game Design and Development<br>👨‍💻 All of my projects are available at https://stuxet.itch.io/<br>📫 How to reach me mark489@live.ru<br>📄 Know about my experiences https://www.linkedin.com/in/markguriev/<br>⚡ Fun fact I like to build and repair things
 
 
