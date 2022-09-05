@@ -1,5 +1,5 @@
 # 💫 Hi, I'm Mark Guriev
-🌱 I’m currently learning Game Design and Development<br>👨‍💻 All of my projects are available at https://stuxet.itch.io/<br>📫 How to reach me mark489@live.ru<br>📄 Know about my experiences https://www.linkedin.com/in/markguriev/<br>⚡ Fun fact I like to build and repair things
+🌱 I’m currently learning Game Design and Development<br>👨‍💻 All of my projects are available at [![Itch.io](https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white)](https://stuxet.itch.io/)  <br>📫 How to reach me mark489@live.ru<br>📄 Know about my experiences https://www.linkedin.com/in/markguriev/<br>⚡ Fun fact I like to build and repair things
 
 
 ## 🌐 Socials:
